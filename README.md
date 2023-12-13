@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gil-Hong-Bae&fontSize=90&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=fadeIn&color=0:CCE5FF,100:0080FF&fontColor=606060&height=300&section=header&text=Gil-Hong-Bae&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlign=60&descAlignY=70)
 
 ### Hi there 👋
 
