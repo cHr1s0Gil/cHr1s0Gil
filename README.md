@@ -1,7 +1,8 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=fadeIn&color=0:CCE5FF,100:0080FF&fontColor=606060&height=300&section=header&text=Gil-Hong-Bae&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlign=60&descAlignY=70)
 
-### Hi there 👋
-
+# [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/)
 <!--
 **cHr1s0Gil/cHr1s0Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
