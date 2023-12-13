@@ -2,7 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=fadeIn&color=0:CCE5FF,100:0080FF&fontColor=606060&height=300&section=header&text=Gil-Hong-Bae&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlign=60&descAlignY=70)
 
-# [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/)
+# [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/) (현재 제작 중)
+## ▲ 프로젝트, 기술 등 더 많은 정보가 있습니다.
+### Contact
+[![gmailLogo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qudcksrlf1@gmail.com)](mailto:qudcksrlf1@gmail.com)
+[![naverLogo](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:chriso0410@naver.com)](mailto:chriso0410@naver.com)
+
+### ✏ Skills & Enviroment 🖥️
+![JSLogo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 <!--
 **cHr1s0Gil/cHr1s0Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
