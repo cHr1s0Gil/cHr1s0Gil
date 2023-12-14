@@ -31,6 +31,8 @@
 ![AWS](https://img.shields.io/badge/EC2-232F3E.svg?style=flat&logo=AmazonAWS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cHr1s0Gil&layout=compact)
 <!--
 **cHr1s0Gil/cHr1s0Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
