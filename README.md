@@ -32,7 +32,15 @@
 ![AWS](https://img.shields.io/badge/EC2-232F3E.svg?style=flat&logo=AmazonAWS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx&logoColor=white)
+---
 
+## Awards
+|Name|Award|Date|Award by|
+|---|---|---|---|
+|SW창업 아이디어 경진대회|🥉동상|2022.11|한림대학교 SW중심대학사업단|
+|소프트웨어학부 서공제|🥈은상|2022.11|한림대학교 소프트웨어학부|
+|캡스톤디자인 경진대회|🏅우수상|2022.12|한림대학교 SW중심대학사업단|
+|창업동아리 최종경진대회|🥇금상(산학협력단장상)|2023.02|한림대학교 창업지원본부 창업교육센터|
 <!--
 **cHr1s0Gil/cHr1s0Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +55,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
