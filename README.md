@@ -4,7 +4,9 @@
 
 # [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/) (현재 제작 중)
 ## ▲ 프로젝트, 기술 등 더 많은 정보가 있습니다.
-### Contact
+## 💻Current
+(주)소프트젠 현장실습 진행 중(2023.09 ~ )
+## 📞Contact
 [![gmailLogo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qudcksrlf1@gmail.com)](mailto:qudcksrlf1@gmail.com)
 [![naverLogo](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:chriso0410@naver.com)](mailto:chriso0410@naver.com)
 
@@ -33,6 +35,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx&logoColor=white)
 ---
+## 🎓Certificate & Lectures
+|Name|Date|
+|---|---|
+|정보처리기사|2023.09|
+|멀티잇 [Java] 백엔드 개발자 취업캠프|2022.12 ~ 2023.05|
 
 ## Awards
 |Name|Award|Date|Award by|
