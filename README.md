@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=fadeIn&color=0:CCE5FF,100:0080FF&fontColor=606060&height=300&section=header&text=Gil-Hong-Bae&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlign=60&descAlignY=70)
 
-# [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/)
+# [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/), [Notion Resume](https://cypress-traffic-85a.notion.site/b57d8487e0bc48f6a49a5c2f4297c084?pvs=4)
 ## ▲ 프로젝트, 기술 등 더 많은 정보가 있습니다.
 ## 💻Current
 (주)소프트젠 현장실습 진행 중(2023.09 ~ )
