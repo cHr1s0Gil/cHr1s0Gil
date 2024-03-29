@@ -5,7 +5,8 @@
 # [Portfolio](https://chr1s0gil.github.io/cHr1s0-blog/), [Notion Resume](https://cypress-traffic-85a.notion.site/b57d8487e0bc48f6a49a5c2f4297c084?pvs=4)
 ## ▲ 프로젝트, 기술 등 더 많은 정보가 있습니다.
 ## 💻Current
-(주)소프트젠 현장실습 진행 중(2023.09 ~ )
+(주)소프트젠 현장실습 진행 중(2023.09 ~ 2024.02.29)
+(주)인스피언 컨설팅 사업부(2024.03.11 ~ )
 ## 📞Contact
 [![gmailLogo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qudcksrlf1@gmail.com)](mailto:qudcksrlf1@gmail.com)
 [![naverLogo](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:chriso0410@naver.com)](mailto:chriso0410@naver.com)
